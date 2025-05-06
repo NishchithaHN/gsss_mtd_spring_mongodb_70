@@ -1,0 +1,3 @@
+show dbs
+use database_name
+db.collection_name.insertOne();
