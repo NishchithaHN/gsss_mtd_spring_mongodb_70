@@ -1,3 +1,4 @@
 show dbs
 use database_name
+db.collection_name.insertMany();
 db.collection_name.insertOne();
